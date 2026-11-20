@@ -1,0 +1,12 @@
+# Binder environment for the notebooks (repo2docker reads this file and runtime.txt).
+#
+# rol-python: the release every notebook here installs in its first cell, so that cell is a
+# no-op on Binder. rol-python has only development releases on PyPI; keep the exact pin.
+rol-python==2026.11.9.dev1945
+
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Notebook 01 loads wurlitzer to show ROL's C++ output in the notebook.
+wurlitzer
