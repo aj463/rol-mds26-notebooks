@@ -10,6 +10,7 @@ its own in Binder or Google Colab:
 |---|---|---|
 | [`01_quickstart_rol`](notebooks/01_quickstart_rol.ipynb) | Exercise A: rank-one matrix completion | [Binder](https://mybinder.org/v2/gh/aj463/rol-mds26-notebooks/HEAD?labpath=notebooks%2F01_quickstart_rol.ipynb) · [Colab](https://colab.research.google.com/github/aj463/rol-mds26-notebooks/blob/main/notebooks/01_quickstart_rol.ipynb) |
 | [`02_geometry_rol`](notebooks/02_geometry_rol.ipynb) | Exercise B: the same function, two inner products | [Binder](https://mybinder.org/v2/gh/aj463/rol-mds26-notebooks/HEAD?labpath=notebooks%2F02_geometry_rol.ipynb) · [Colab](https://colab.research.google.com/github/aj463/rol-mds26-notebooks/blob/main/notebooks/02_geometry_rol.ipynb) |
+| [`03_special_features_rol`](notebooks/03_special_features_rol.ipynb) | Part IV: SimOpt, inexactness, and SOL | [Binder](https://mybinder.org/v2/gh/aj463/rol-mds26-notebooks/HEAD?labpath=notebooks%2F03_special_features_rol.ipynb) · [Colab](https://colab.research.google.com/github/aj463/rol-mds26-notebooks/blob/main/notebooks/03_special_features_rol.ipynb) |
 
 Run the cells in order in a fresh kernel. The first cell installs the `rol-python` release the
 notebook was written for; on Binder it is already installed.
